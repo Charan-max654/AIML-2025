@@ -10,7 +10,7 @@
 
 [Lab 04](https://github.com/Charan-max654/AIML-2025/blob/main/Lab-04.ipynb): Implement Linear Regression using Boston Housing Data
 
-[Lab 05](): Implement Logistic Regression using Titanic Ship Data
+[Lab 05](https://github.com/Charan-max654/AIML-2025/blob/main/Lab-05.ipynb): Implement Logistic Regression using Titanic Ship Data
 
 [Lab 06](): Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
 
