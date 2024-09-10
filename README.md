@@ -6,7 +6,7 @@
 
 [Lab 02](https://github.com/Charan-max654/AIML-2025/blob/main/Lab-02.ipynb): Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python
 
-[Lab 03](): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
+[Lab 03](https://github.com/Charan-max654/AIML-2025/blob/main/Lab-03.ipynb): Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
 
 [Lab 04](): Implement Linear Regression using Boston Housing Data
 
